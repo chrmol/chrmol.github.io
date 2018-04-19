@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.chris.facebooktesten",
+    "package_name": "com.example.chris.facebookTesten",
     "sha256_cert_fingerprints":
     ["0C:A4:0E:D1:27:18:E7:BE:39:5E:8C:B4:46:81:5D:AA:4C:EF:57:E0:F3:CD:4A:23:36:AF:0B:3B:B9:24:BB:C1"]
   }
